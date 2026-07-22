@@ -9,7 +9,14 @@ PWA de flashcards gamifiée — répétition espacée, quiz et sprint chrono. Ve
 - **Révision** — cartes recto/verso avec système de Leitner (5 boîtes, intervalles 0/1/3/7/16 jours). Seules les cartes dues du jour sont proposées ; s'il n'y en a pas, révision libre en avance.
 - **Quiz** — 10 QCM générés automatiquement (les distracteurs sont piochés dans les autres réponses du deck).
 - **Sprint** — 60 secondes pour enchaîner un maximum de bonnes réponses.
-- **Gamification** — XP, niveaux, combos (jusqu'à ×3), série quotidienne 🔥, records par deck, confettis.
+- **Paires** — associer 6 questions à leurs réponses au chrono (record = meilleur temps).
+- **Gamification** — XP, niveaux, combos (jusqu'à ×3), série quotidienne 🔥, records par deck, confettis, sons synthétisés et vibrations (désactivables).
+- **Objectif du jour** — anneau de progression XP sur l'accueil (touchez-le pour ajuster : 40/80/120/200).
+- **14 succès** à débloquer — séries, combos, quiz parfait, noctambule, etc.
+- **Statistiques** — heatmap d'activité sur 12 semaines, cartes acquises, vitrine des succès (icône ▦).
+- **Explorateur** — parcourir et chercher toutes les cartes d'un deck avec leur boîte Leitner.
+- **Mode inversé** — réviser dans le sens réponse → question.
+- **Cartes ratées** listées en fin de session pour retravailler.
 - **Import** — glissez n'importe quel CSV `question,réponse` dans la bibliothèque (stocké localement).
 - **PWA** — installable, fonctionne hors-ligne, données sauvegardées dans le navigateur.
 
