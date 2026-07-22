@@ -1,0 +1,12 @@
+{
+  "decks": [
+    {
+      "id": "guerre-cognitive-moyen",
+      "fichier": "guerre-cognitive-moyen.csv",
+      "titre": "Guerre cognitive",
+      "description": "Doctrines, concepts et acteurs de la guerre cognitive — le sixième domaine.",
+      "niveau": "Moyen",
+      "emoji": "🧠"
+    }
+  ]
+}
