@@ -6,7 +6,23 @@
       "titre": "Guerre cognitive",
       "description": "Doctrines, concepts et acteurs de la guerre cognitive — le sixième domaine.",
       "niveau": "Moyen",
-      "emoji": "🧠"
+      "emoji": "🔴"
+    },
+    {
+      "id": "guerre-cognitive-difficile",
+      "fichier": "guerre-cognitive-difficile.csv",
+      "titre": "Guerre cognitive",
+      "description": "Doctrines, concepts et acteurs de la guerre cognitive — le sixième domaine.",
+      "niveau": "Expert",
+      "emoji": "⚡"
+    },
+    {
+      "id": "guerre-cognitive-facile",
+      "fichier": "guerre-cognitive-facile.csv",
+      "titre": "Guerre cognitive",
+      "description": "Doctrines, concepts et acteurs de la guerre cognitive — le sixième domaine.",
+      "niveau": "Facile",
+      "emoji": "🟢"
     }
   ]
 }
