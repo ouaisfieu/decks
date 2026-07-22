@@ -1,5 +1,5 @@
 /* Decks — service worker */
-const VERSION = "decks-v1";
+const VERSION = "decks-v2";
 const SHELL = [
   "./",
   "./index.html",
